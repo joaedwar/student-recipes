@@ -2,7 +2,6 @@
 
 This book details how to make some classic dishes!
 
-* link:index.html?e=assembly_DEMONSTRATION-TACO.adoc[Taco Recipe]
-* link:index.html?e=assembly_DEMONSTRATION-SALAD.adoc[Salad with Chicken]
-* link:index.html?e=proc_recipe1-FIRSTNAME-LASTNAME.adoc[Add Your Favorite Recipe]
-* link:index.html?e=proc_recipe2-FIRSTNAME-LASTNAME.adoc[Add Your Favorite Recipe]
+
+* link:index.html?e=proc_recipe-CHLOE-MCHUGH.adoc[Brownie Recipe]
+* link:index.html?e=proc_recipe-EMMA-MCHUGH.adoc[Borsch Recipe]
