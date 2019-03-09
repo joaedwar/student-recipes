@@ -1,7 +1,7 @@
-= Siteless
+= Recipe Book
 
-It's like serverless, but for content.
+This book details how to make some classic dishes!
 
-* link:index.html?e=assembly_about.adoc[About Siteless]
-* link:index.html?e=assembly_using.adoc[Using Siteless]
-* link:index.html?e=assembly_reference.adoc[Reference]
+
+* link:index.html?e=proc_recipe-CHLOE-MCHUGH.adoc[Borsch Recipe]
+* link:index.html?e=proc_recipe-EMMA-MCHUGH.adoc[Brownie Recipe]
