@@ -4,7 +4,7 @@
 
 This recipe explains how to make brownies.
 
-.Prerequisites
+.*Prerequisites*
 
 * Chocolate Chips
 * Cocoa Mixture
@@ -17,11 +17,13 @@ This recipe explains how to make brownies.
 * Spatula
 * Whisk
 
-.Procedure
+---
+
+.*Procedure*
 
 . Take out all the ingredients for making brownies.
 
-. Preheat oven to 350oF (175o C).
+. Preheat oven to 350F (175C).
 
 . Mix the butter, sugar and vanilla together.
 
