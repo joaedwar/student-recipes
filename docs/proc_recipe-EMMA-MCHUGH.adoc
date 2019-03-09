@@ -4,7 +4,7 @@
 
 This recipe explains how to make brownies.
 
-.Prerequisites
+.*Prerequisites*
 
 * Chocolate Chips
 * Cocoa Mixture
@@ -17,7 +17,9 @@ This recipe explains how to make brownies.
 * Spatula
 * Whisk
 
-.Procedure
+---
+
+.*Procedure*
 
 . Take out all the ingredients for making brownies.
 
