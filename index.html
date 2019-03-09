@@ -1,37 +1,9 @@
-<html>
-  <head>
-    <script src="./asciidoctor.js"></script>  
-    <link rel="stylesheet" href="index.css">
-
-  </head>
-        
-  <body>
-    <a href="index.html">Home</a>
-
-       <div id="target"></div>
-    <script>
-      
-      var asciidoctor = Asciidoctor();
-      var content = "include::index.adoc[leveloffset=+1]";
-
-
-       const html0 = asciidoctor.convert(content,{safe: 'server', attributes: {PRODUCT: 'BMX'}});      
-       document.getElementById('target').innerHTML = html0;
-
-
-      var fname = (location.search.match(/e=(.*)/)[1]);
-     
-
-        var content = "include::"+ fname + "[leveloffset=+1]";
-       
-
-    const jsonObj = asciidoctor.load(content,{safe: 'server', attributes: {PRODUCT: 'BMX'}});      
-    console.log(jsonObj);
-	  const html = asciidoctor.convert(content,{safe: 'server', attributes: {PRODUCT: 'BMX'}});      
-      document.getElementById('target').innerHTML = html;
-
-</script>
-
-  </body>
-</html>
-
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="canonical" href="docs/index.html">
+<script>location=docs/index.html"</script>
+<meta http-equiv="refresh" content="0; url=docs/index.html">
+<meta name="robots" content="noindex">
+<title>Redirect Notice</title>
+<h1>Redirect Notice</h1>
+<p>The page you requested has been relocated to <a href="docs/index.html">docs/index.html</a>.</p>

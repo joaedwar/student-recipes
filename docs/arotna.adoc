@@ -1,0 +1,134 @@
+= Arotna Mindmap
+
+Push adoc to publish
+
+Arotna doesn't proscribe a method for doing things, but an order to making decisions:
+
+WIP
+
+* <<Choosing a UI>>
+* <<Choosing an editor>>
+* <<Choosing a hosting service>>
+* <<Choosing a sync service>>
+* <<Choosing a git service>>
+* <<Configuring asciidoctor.js>>
+* <<Choosing templates, convention, and styles>>
+* <<Writing content>>
+* <<Integrating>>
+* <<Integrations>>
+
+== Choosing a UI
+
+Typically, you'd use:
+
+* <<PatternFly>> - the default
+* <<Bare>>
+
+You might want to contribute:
+
+* <<PatternFly 4>>
+* link:https://asciidoctor.org/docs/asciidoctor-revealjs/[Reveal.js]]
+
+== Choosing an editor
+
+Editors include:
+
+* link:https://atom.io/[Atom]
+* VSCode
+* <<Using Joplin>>
+
+== Choosing a hosting service
+
+Typically, you host the Asciidoc and HTML files on:
+
+* <<GitHub>> Pages
+
+== Choosing a sync service
+
+Typically, you'd use <<Joplin>>:
+
+* Dropbox
+* Onedrive
+* Nextcloud
+
+But you might want to develop your own solution using:
+
+* https://github.com/aerogear/voyager-server[Voyager]
+
+== Choosing a git service
+
+Typically you would use:
+
+* GitHub - GitHub pages is documented at [TODO]
+* GitLab
+
+== Configuring asciidoctor.js
+
+Asciidoctor.js modes include:
+
+* safe
+* secure
+* unsafe
+
+See the link:https://asciidoctor-docs.netlify.com/asciidoctor/1.5/safe-modes/[Asciidoctor.js documentation].
+
+== Choosing templates, convention, and styles
+
+You can use Arotna with:
+
+* simple markdown
+* a topic based authoring (for example, mod docs)
+
+== Integrating
+
+You might want to develop the following type of integration;
+
+* a new UI
+* a new editor
+* a new sync system
+* tests
+* JavaScript manipulation of content
+
+See <<Integrations>> for a list of existing integrations.
+
+== Integrations
+
+Existing integrations include:
+
+* <<GitHub>>
+** Web hosting
+* <<Joplin>> - an open source notes/evernote typic application
+** Dropbox
+** WebDav
+
+See <<Integrating>> for information on developing your own integrations.
+
+== Writing content
+
+You must write content in link:https://asciidoc.org[AsciiDoc].
+Typically, you write:
+
+* Headings (`=` prefixed lines)
+* Bullets (`*` prefixed lines)
+* links (`link:<url>[title]`)
+
+
+=== PatternFly 3
+
+This is the default UI. You can either:
+
+* use a template and only edit AsciiDoc to change content
+* edit the PatternFly app, rebuild and change behaviour (app development)
+
+=== Bare HTML file
+
+. Add the asciidoctor.js library to your HTML
+. Add and edit the AsciiDoc files to publish content 
+
+=== PatternFly 4
+
+PatternFly 4 is new and under development
+
+=== Using Joplin
+
+link:https://joplin.cozic.net/[Joplin] is a note taking app that primarily uses markdown to capture 'evernote' style content. It provides synchronization across multiple devices, and that sync can support multiple users.

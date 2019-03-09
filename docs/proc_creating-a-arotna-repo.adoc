@@ -1,0 +1,35 @@
+[id='creating-a-arotna-repo_{context}']
+= Creating a arotna repo
+
+To get you started, create a github pages hosted site, and edit some content.
+
+
+.Procedure
+
+. Fork or copy the link:https://github.com/finp/arotna[arotna repo].
+. To avoid a *build* step, edit `docs/index.adoc` file, for example:
++
+----
+* link:index.html?e=1.adoc[First page]
+* link:index.html?e=2.adoc[Second page]
+----
+. Create files `1.adoc` and `2.adoc` with content, for example:
++
+----
+= Page One
+
+This is my first page.
+----
+. To avail of PatternFly features, you edit the `src\index.adoc` and build using the instructions at
++
+https://github.com/patternfly/patternfly-demo-app
+
+. To preview locally if you are not using PatternFly, you need a web server, eg `npm i -g http-server`.
+. Commit your changes and push to GitHub repo.
+. In *Options*  for the repo, navigate to the *GitHub Pages* section.
+. Select *master branch* from the *Sources* list.
+. Choose to publish the *docs* directory.
+
+After applying, your site should be available at https://<user>.github.io/<repo-name>
+
+NOTE: You may need to Ctl-F5 to refresh a page and see your latest changes. 
