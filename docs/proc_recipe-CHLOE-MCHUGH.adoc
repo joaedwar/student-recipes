@@ -2,9 +2,10 @@
 
 = Making Borscht
 
-This paragraph is the procedure module introduction: how to make borscht 
+This procedure explains how to make borscht 
 
-.Prerequisites
+.*Prerequisites*
+
 
 * 1 tbsp vegetable oil
 * 15g/½oz butter
@@ -22,8 +23,9 @@ This paragraph is the procedure module introduction: how to make borscht
 * 1 tbsp finely chopped dill
 * saucepan
 
+---
 
-.Procedure
+.*Procedure*
 
 . Heat the vegetable oil and butter in a large, heavy bottomed saucepan.
 
