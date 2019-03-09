@@ -1,7 +1,8 @@
 = Recipe Book
 
 This book details how to make some classic dishes! Contributions are made by Red Hat's Transition Year students.
+The site is built using Aronta!
 
 
-* link:index.html?e=proc_recipe-CHLOE-MCHUGH.adoc[Borsch Recipe]
+* link:index.html?e=proc_recipe-CHLOE-MCHUGH.adoc[Borscht Recipe]
 * link:index.html?e=proc_recipe-EMMA-MCHUGH.adoc[Brownie Recipe]
