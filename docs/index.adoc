@@ -1,10 +1,7 @@
-= Arotna
+= Recipe Book
 
-link:https://antora.org[Antora] is a great static file generator, this is not.
-Antora solves documentation issues relating to versioning and repo complexity, Arotna doesn't solve anything.
+This book details how to make some classic dishes! Contributions are made by Red Hat's Transition Year students.
 
-You could say Arotna is the opposite to Antora. It just allows you edit and push adoc file to update your GitHub pages website.
 
-* link:index.html?e=assembly_about.adoc[About Arotna]
-* link:index.html?e=assembly_using.adoc[Using Arotna]
-* link:index.html?e=assembly_reference.adoc[Reference]
+* link:index.html?e=proc_recipe-CHLOE-MCHUGH.adoc[Borsch Recipe]
+* link:index.html?e=proc_recipe-EMMA-MCHUGH.adoc[Brownie Recipe]
