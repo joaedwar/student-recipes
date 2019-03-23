@@ -1,7 +1,7 @@
 # Student Recipe Book
 
 This repository helps students understand the following concepts:
-* How GitHub is used for mangaing information development?
+* How GitHub is used for managing documentation and information development?
 * What is modular documentation / Why is it used?
 * How Asciidoc is used in documentation / How is it rendered?
 ___________________________________________________________________________________________________________________
