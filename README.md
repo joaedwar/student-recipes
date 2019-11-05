@@ -8,8 +8,8 @@ ________________________________________________________________________________
 
 This is an _example_ repository to demonstrate Git to students. Students are tasked with completing the following:
 1) Creating a recipe (procedure module) 
-3) Contributing to the structuring of a document (modular documentation)
-4) Making a pull request
-5) Resolving an issue
-
+2) Contributing to the structuring of a document (modular documentation)
+3) Making a pull request
+4) Resolving an issue
+5) Peer Review work
 
