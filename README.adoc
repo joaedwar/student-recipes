@@ -6,7 +6,6 @@ This repository helps students understand the following concepts:
 * What is modular documentation / Why is it used?
 * How Asciidoc is used in documentation / How is it rendered?
 
-__________________________________________________________________________________
 
 *This is an _example_ repository to demonstrate Git to students.*
 
