@@ -1,7 +1,0 @@
-= Recipe Book
-
-This book details how to make some classic dishes!
-
-
-* link:index.html?e=proc_recipe-CHLOE-MCHUGH.adoc[Borsch Recipe]
-* link:index.html?e=proc_recipe-EMMA-MCHUGH.adoc[Brownie Recipe]
