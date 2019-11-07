@@ -1,0 +1,10 @@
+//
+//
+
+= Student Recipe Book
+
+This repository helps students understand the following concepts:
+
+* How GitHub is used for managing documentation and information development?
+* What is modular documentation?
+* How Asciidoc is used in documentation?

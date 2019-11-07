@@ -1,0 +1,11 @@
+site:
+  title: Student Recipes
+  url: https://joaedwar.github.io/student-recipes
+  start_page: docs::index
+content:
+  sources:
+    - url: .
+      branches: HEAD
+ui:
+  bundle:
+    url: ./ui-bundle.zip

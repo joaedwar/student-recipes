@@ -1,0 +1,3 @@
+:moduledir: ..
+:branch: master
+:github-repo: https://joaedwar.github.io/student-recipes/
