@@ -11,7 +11,7 @@ This repository helps students understand the following concepts:
 
 === This is an _example_ repository to demonstrate Git to students.
 
-Students are tasked with completing the following:
+Students must complete the following:
 
 . Creating a recipe (procedure module) 
 . Contributing to the structuring of a document (modular documentation)
