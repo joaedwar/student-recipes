@@ -1,0 +1,24 @@
+// This Module explains how to make Toast
+
+= Making Toast
+
+This tutorial explains how to make toast.
+
+== Prerequisites
+
+* White Bread
+* Toaster
+* Butter (Or some type of spread)
+* Butter knife
+
+== Procedure
+
+- Take one or two slices of toast (depending on how many slots your toaster has).
+- Put those slices into the bread slots in your toaster.
+- Make sure your toaster is on and push the slider down which will drop the bread down into the toaster
+- After a couple of minutes, your toast will pop up, you can now grab a plate
+- Grab the toast and put it on a plate
+- Get a butter knife and a spread of your choice (Butter, Jam, Nutella etc)
+- Scoop a generous amount of spread onto your knife, and spread it on your toast.
+- Eat and enjoy!
+
