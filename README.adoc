@@ -17,4 +17,4 @@ Complete the following:
 . Contribute to the structuring of a document (modular documentation)
 . Make a pull request
 . Resolve an issue
-. Peer Review work
+. Peer review work
