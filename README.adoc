@@ -9,7 +9,7 @@ This repository helps students understand the following concepts:
 {nbsp}
 {nbsp}
 
-=== This is an _example_ repository to demonstrate Git to students.
+=== This is an *example*repository to demonstrate Git to students.
 
 Complete the following:
 
