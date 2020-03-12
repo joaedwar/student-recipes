@@ -1,0 +1,27 @@
+// This module is about making waffle batter
+
+= Making Waffles
+
+This procedure module explains how to make waffle batter. It serves 6 waffles.
+
+== Prerequisites
+
+* 2 eggs
+* 250g plain flour
+* 415ml milk
+* 120ml vegetable oil
+* 1 tablespoon suger
+* 4 teaspoons baking powder
+* 1/4 teaspoon salt
+* 1/ teaspoon vanilla extract
+
+
+== Procedure
+
+. Preheat the waffle maker.
+
+. Beat eggs in large bowl with hand beater until fluffy. Beat in flour, milk, vegetable oil, sugar, baking powder, salt and vanilla, just until smooth.
+
+. Spray preheated waffle iron with cooking spray. Pour mix onto hot waffle iron. Cook until golden brown. Serve hot.
+
+.Additional resources
